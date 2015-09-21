@@ -1,0 +1,17 @@
+{
+  "name": "sandiloka-hello-1",
+  "version": "1.0.0",
+  "description": "Hello 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sandiloka",
+    "hello",
+    "test",
+    "hola"
+  ],
+  "author": "Dhi Aurrahman <dio@sandiloka.com>",
+  "license": "MIT"
+}
